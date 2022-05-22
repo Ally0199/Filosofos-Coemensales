@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636772712 source:c:\users\alondra\onedrive\6° semestre cucei\seminario de uso, adapatacion y explotacion de sistemas operativos\filosofos-comensa1es\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
